@@ -13,12 +13,6 @@ acr = {
     location = "centralindia"
     sku      = "Standard"
   }
-  acr2 = {
-    name     = "shiveshacr"
-    rg_name  = "shivesh-rg"
-    location = "centralindia"
-    sku      = "Standard"
-  }
 }
 
 aks = {
